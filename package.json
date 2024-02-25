@@ -1,0 +1,19 @@
+{
+  "name": "mynodejsss",
+  "version": "1.0.0",
+  "description": "my simple test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satwi8/mynodejs.git"
+  },
+  "author": "satwiiii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Satwi8/mynodejs/issues"
+  },
+  "homepage": "https://github.com/Satwi8/mynodejs#readme"
+}
